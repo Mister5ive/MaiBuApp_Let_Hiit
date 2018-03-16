@@ -1,0 +1,24 @@
+{
+  "uuid": "ddfe0abe702d73a5078b2ae4af9e96b6",
+  "name": "Let's Hiit",
+  "icon": "IMAGE_ICON",
+  "version": "1.0.1",
+  "watchface": "false",
+  "resources": [
+    {
+      "type": "bmp",
+        "name": "IMAGE_ICON",
+        "file": "icon.bmp"
+    },
+    {
+      "type": "bmp",
+      "name": "RES_BITMAP_HIIT_MAIN_BUTTON_PROCESS_BMP",
+      "file": "button.bmp"
+    },
+    {
+      "type": "bmp",
+      "name": "RES_BITMAP_HIIT_MAIN_BUTTON_STOP_BMP",
+      "file": "button2.bmp"
+    }
+  ]
+      }
